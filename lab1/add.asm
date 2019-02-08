@@ -1,0 +1,8 @@
+
+.ORIG x3000   
+ADD R1, R3, #-16
+ADD R1, R6, #15
+ADD R1, R2, #0
+ADD R1, R7, R3
+ADD R1, R3, #-16
+.END
